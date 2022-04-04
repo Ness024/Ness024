@@ -1,7 +1,13 @@
 
-### Hi there 👋
+## Hi there 👋,
 
 ![Banner_For_README](https://user-images.githubusercontent.com/101614911/161470030-effe5f64-7fbc-4555-8bcf-c32f9a089661.gif)
+
+¡Bienvenido a mi GitHub!... Soy Ness, estudiante de computación.
+
+### Estoy aprendiendo...
+* Javascript (Desarrollo Web).
+* HTML y CSS (Desarrollo Web).
 
 <!--
 ![Nestor Yescas Ramos (1)](https://user-images.githubusercontent.com/101614911/161368783-ebbcd97f-c066-4413-b538-1ad36b260022.gif)
