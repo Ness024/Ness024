@@ -1,8 +1,6 @@
 
 ## Hi there 👋,
 
-![Banner_For_README](https://user-images.githubusercontent.com/101614911/161470030-effe5f64-7fbc-4555-8bcf-c32f9a089661.gif)
-
 ¡Bienvenido a mi GitHub!... Soy Ness, estudiante de computación.
 
 ### Estoy aprendiendo...
